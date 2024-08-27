@@ -4,4 +4,4 @@ Swift implementation of [Materialette](https://github.com/mike-schultz/materiale
 
 simple and small
 
-![palette](palette.gif)
+![palette](palette1-1-1.gif)
